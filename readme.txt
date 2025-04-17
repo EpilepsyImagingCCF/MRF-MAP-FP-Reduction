@@ -1,5 +1,5 @@
 Author: Zheng Ding
-Paper: Combining magnetic resonance fingerprinting with voxel-based morphometric analysis to reduce false positives for focal cortical dysplasia detection.
+Paper: Combining magnetic resonance fingerprinting with voxel-based morphometric analysis to reduce false positives for focal cortical dysplasia detection. Epilepsia. 2024 Jun;65(6):1631-1643. doi: 10.1111/epi.17951.
 
 Use training data generation to extract data from valNN output and MNI space MRF data
 generated excel sheet can be used to train models in FP_reduction_model_results.ipynb.
